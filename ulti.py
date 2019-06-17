@@ -20,10 +20,10 @@ if __name__ == "__main__":
 	os.system('clear')
 	banner()
 	r = input("Choose => ")
-	if r == '1':
+	if r == 1:
 		yok()
-	if r == '2':
+	if r == 2:
 		yok2()
-	if r == '3':
+	if r == 3:
 		yok3()
 
